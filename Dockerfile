@@ -5,7 +5,7 @@ MAINTAINER Lunar Logic <support@lunarlogic.com>
 #Mongo PHP driver version
 
 ENV MONGO_VERSION 3.0.14
-ENV MONGO_PGP 2.2
+ENV MONGO_PGP 3.0
 ENV MONGO_PHP_VERSION 1.6.14
 
 #Install php and dependenceis
